@@ -1,4 +1,4 @@
-# Aditiya Mahendra - Frontend Developer & UI/UX Design Enthusiast
+# Aditiya Mahendra - Software Developer & UI/UX Design Enthusiast
 
 I've been on an exciting journey, contributing to a diverse range of projects. Over one year, I've held roles as a frontend developer in the web and have also delved into UI Design.
 
