@@ -1,6 +1,6 @@
 # Aditiya Mahendra - Software Developer & Quality Assurance
 
-I'm a Computer Science graduate with experience in Quality Assurance and UI/UX Design. I'm passionate about exploring new technologies, ensuring software quality, and turning ideas into real products. I'm currently expanding my skills in software development, especially mobile app development with Flutter.
+I'm a Computer Science graduate with experience in Quality Assurance. I'm passionate about exploring new technologies, ensuring software quality, and turning ideas into real products. I'm currently expanding my skills in software development, especially mobile app development with Flutter also using Selenium and Playwright in Quality Assurance.
 
 Feel free to connect with me if you'd like to collaborate on projects or build something meaningful together!
 
