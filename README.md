@@ -1,8 +1,8 @@
-# Aditiya Mahendra - Software Developer & UI/UX Design Enthusiast
+# Aditiya Mahendra - Software Developer & Quality Assurance
 
-I've been on an exciting journey, contributing to a diverse range of projects. Over one year, I've held roles as a mobile developer and have also delved into UI Design. To try new things, I'm currently learning about mobile apps.
+I'm a Computer Science graduate with experience in Quality Assurance and UI/UX Design. I'm passionate about exploring new technologies, ensuring software quality, and turning ideas into real products. I'm currently expanding my skills in software development, especially mobile app development with Flutter.
 
-Feel free to contact me if you need any help with your web development projects. I'm always willing to professionally serve and help teams achieve success.
+Feel free to connect with me if you'd like to collaborate on projects or build something meaningful together!
 
 ## Let's Connect 🚀
 
